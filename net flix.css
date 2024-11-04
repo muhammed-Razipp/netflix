@@ -1,0 +1,547 @@
+header {
+    background-image: url(https://analyticsindiamag.com/wp-content/uploads/2019/05/apps.55787.9007199266246365.687a10a8-4c4a-4a47-8ec5-a95f70d8852d.jpg);
+
+    background-size: cover;
+    height: 2500px;
+}
+
+#rass {
+    width: 350px;
+    margin-left: 120px;
+    margin-top: 100px;
+
+}
+
+#lan {
+    background-color: transparent;
+    color: aliceblue;
+    margin-left: 4500px;
+
+    height: 120px;
+    width: 300px;
+    font-size: 50px;
+    margin-top: -150px;
+    border-radius: 15px;
+    background-color: black;
+
+}
+
+.iam {
+    width: 200px;
+    height: 120px;
+    background-color: red;
+    color: white;
+    font-size: 50px;
+    border-radius: 10px;
+}
+
+#aaa {
+    color: white;
+    font-size: 200px;
+    margin-left: 1800px;
+    margin-top: 450px;
+
+
+}
+
+#bbb {
+    color: white;
+    font-size: 70px;
+    margin-left: 2000px;
+    height: 60px;
+    margin-bottom: 1px;
+}
+
+#ccc {
+    color: white;
+    margin-left: 1800px;
+    font-size: 55px;
+}
+
+.mail {
+    width: 970px;
+    height: 150px;
+    margin-left: 1900px;
+    background-color: black;
+    font-size: 50px;
+    color: white;
+
+}
+
+#eee {
+    width: 450px;
+    height: 150px;
+    background-color: red;
+    color: white;
+    font-size: 50px;
+    border-radius: 5px;
+}
+
+main {
+    background-color: black;
+    height: 9000px;
+}
+
+#nnn {
+    font-size: 90px;
+    color: white;
+    margin-left: 200px;
+    margin-bottom: 60px;
+    margin-top: 100px;
+
+
+}
+
+.mmm {
+    margin-top: 90px;
+    background-color: black;
+    font-size: 50px;
+    color: white;
+    margin-left: 200px;
+    width: 250px;
+}
+
+#sss {
+    margin-left: 300px;
+    height: 1200px;
+    margin-top: 200px;
+    width: 800px;
+}
+
+#vvv {
+    margin-left: 200px;
+    height: 1200px;
+    width: 800px;
+    margin-top: 200px;
+}
+
+#ooo {
+    margin-left: 200px;
+    height: 1200px;
+    width: 800px;
+    margin-top: 200px;
+}
+
+#yyy {
+    margin-left: 200px;
+    height: 1200px;
+    width: 800px;
+    margin-top: 200px;
+}
+
+#uuu {
+    margin-left: 200px;
+    height: 1200px;
+    width: 800px;
+    margin-top: 200px;
+}
+
+#more {
+    font-size: 80px;
+    color: white;
+    margin-left: 300px;
+}
+
+.card {
+    height: 1200px;
+    margin-left: 150px;
+    margin-right: 55px;
+    background-color: rgb(46, 46, 71);
+    color: white;
+    border-radius: 40px;
+    font-size: 70px;
+
+
+}
+
+
+#ttt {
+    font-size: 80px;
+}
+
+#rrr {
+    font-size: 80px;
+}
+
+#iii {
+    font-size: 80px;
+
+}
+
+#ppp {
+    font-size: 80px;
+}
+
+#fff {
+    font-size: 50px;
+
+    color: white;
+    height: 300px;
+    background-color: rgb(81, 80, 74);
+}
+
+#xxx {
+    font-size: 50px;
+    color: white;
+    height: 300px;
+    background-color: rgb(81, 80, 74);
+}
+
+#zzz {
+    font-size: 50px;
+    color: white;
+    height: 300px;
+    background-color: rgb(81, 80, 74);
+}
+
+.hallo {
+    font-size: 80px;
+    background-color: black;
+    color: black;
+    margin-left: 150px;
+    margin-right: 150px;
+    border-radius: 80px;
+    margin-top: 90px;
+}
+
+#kkk {
+    font-size: 50px;
+    color: white;
+    background-color: rgb(81, 80, 74);
+    margin-top: 10px;
+    height: 300px;
+}
+
+#qqq {
+    font-size: 50px;
+    color: white;
+    background-color: rgb(81, 80, 74);
+    height: 300px;
+}
+
+#lll {
+    font-size: 50px;
+    color: white;
+    background-color: rgb(81, 80, 74);
+    height: 300px;
+}
+
+#rzz {
+    font-size: 80px;
+    margin-left: 200px;
+    margin-top: 200px;
+    color: white;
+}
+
+.hai {
+    font-size: 80px;
+    background-color: black;
+    margin-left: 150px;
+    margin-right: 150px;
+    margin-top: 3px;
+}
+
+#noo {
+    font-size: 60px;
+    color: white;
+    margin-left: 1700px;
+    margin-top: 60px;
+}
+
+#yes {
+    height: 155px;
+    width: 450px;
+    background-color: red;
+    color: white;
+    font-size: 50px;
+    border-radius: 7px;
+}
+
+#jk {
+    width: 1570px;
+    height: 150px;
+    margin-left: 1700px;
+    background-color: rgb(65, 61, 61);
+    color: white;
+    margin-top: 60px;
+    font-size: 60px;
+
+}
+
+#call {
+    font-size: 45px;
+    margin-left: 500px;
+    color: rgb(100, 116, 122);
+}
+
+.foot {
+    margin-left: 10px;
+    font-size: 45px;
+    color: rgb(109, 116, 122);
+}
+
+#id {
+    margin-left: 500px;
+    margin-right: 1600px;
+    margin-top: 130px;
+}
+
+#eng {
+    margin-left: 23px;
+    color: white;
+    width: 250px;
+    font-size: 40px;
+    height: 80px;
+    background-color: black;
+}
+
+#las {
+    color: rgb(109, 116, 122);
+    font-size: 45px;
+    margin-top: 40px;
+
+}
+
+
+/*media quriya*/
+@media only screen and (max-width:390px){
+
+    #rass{
+        padding: 5px 10px;
+        width: 97px;
+       margin-left: 10px;
+       margin-top: 9px;
+    }
+    #lan{
+        height: 30px;
+        width: 50px; 
+        margin-left: 200px;
+        font-size: small;
+        margin-top: -100px;
+    
+    }
+    .iam{
+        height: 40px;
+        width: 80px;
+        font-size: small;
+        margin-top: -81px;
+        
+    }
+    #aaa{
+        font-size:30px;
+        margin-left: 60px;
+        margin-top: 80px;
+    }
+    #bbb{
+        font-size: 20px;
+        margin-left: 60px;
+        margin-top: -11px;
+    
+    }
+    #ccc{
+        margin-left: 60px;
+        font-size: 20px;
+        margin-top: -109px;
+        
+    }
+    .mail{
+        width: 320px;
+        height: 50px;
+        margin-left: 20px;
+        font-size: large;
+        margin-top: -90px;
+    }
+    #eee{
+        width: 150px;
+        height: 50px;
+        font-size: large;
+        margin-top: 5px;
+        margin-left: 120px;
+    }
+    header{
+        height: 600px;
+    }
+    #nnn{
+        font-size: large;
+        margin-left: 30px;
+        margin-top: -41px;
+    }
+    .mmm{
+        width: 300px;
+        margin-top: 11px;
+        margin-left: 30px;
+        height: 50px;
+        font-size: small;
+    
+    }
+    #sss{
+        margin-top: 8px;
+        margin-left: 30px;
+        width: 80px;
+        height: 150px;
+    }
+    #vvv{
+        margin-top: 8px;
+        margin-left: 30px;
+        width: 80px;
+        height: 150px;  
+    }
+    #ooo{
+        margin-top: 8px;
+        margin-left: 30px;
+        width: 80px;
+        height: 150px;
+    }
+    #yyy{
+        margin-top: 8px;
+        margin-left: 30px;
+        width: 80px;
+        height: 150px;
+    }
+    #uuu{
+        margin-top: 8px;
+        margin-left: 30px;
+        width: 80px;
+        height: 150px;
+    }
+    #more{
+        font-size: 20px;
+        margin-left: 10px;
+        margin-top: 20px;
+    }
+    .card{
+          display: contents;
+        font-size: medium;
+        justify-content: baseline;
+        margin-top: -51px;
+    }
+    #ttt{
+        font-size: 20px;
+        margin-top: -51px;
+    }
+    #rrr{
+        font-size: 20px;
+    
+    }
+    #iii{
+        font-size: 20px;
+    
+    }
+    #ppp{
+        font-size: 20px;
+    }
+    #rzz{
+        font-size: large;
+        margin-left: 10px;
+        margin-top: -101px;
+    }
+    .hallo{
+        margin-left: 10px;
+        height: 20px;
+        margin-top: -61px;
+        font-size: x-small;
+        
+        
+        
+        
+    }
+    #fff{
+        font-size: large;
+        width: 340px;
+        height: 40px;
+        margin-left: 10px;
+        
+        
+    }
+    #xxx{
+        font-size: large;
+        width: 340px;
+        height: 40px;
+        margin-left: 10px;
+        
+        
+    }
+    #zzz{
+        font-size: large;
+        width: 350px;
+        height: 50px;
+        margin-left: 10px;
+        
+    }
+    #kkk{
+        
+        font-size: large;
+        width: 350px;
+        height: 50px;
+        margin-left: -131px;
+        margin-top: 120px;
+        
+    }
+    #qqq{
+        
+        font-size: large;
+        width: 350px;
+        height: 50px;
+        margin-left: -131px;
+        margin-top: 10px;
+
+        
+    }
+    #lll{
+        font-size: large;
+        width: 350px;
+        height: 50px;
+        margin-left: -131px;
+        margin-top: 10px;
+    
+
+    }
+    #noo{
+        margin-left: 40px;
+        font-size: small;
+        margin-top: 1px;
+    }
+    #jk{
+        margin-left: 30px;
+        width: 400px;
+        height: 40px;
+        font-size: large;
+        margin-top: 6px;
+    }
+    #yes{
+        width: 200px;
+        height: 50px;
+        font-size: large;
+        margin-top: 9px;
+        margin-left: 40px;
+        
+    }
+    #call{
+        font-size: large;
+        margin-left: 40px;
+        margin-top: -81px;
+    }
+    .foot{
+    
+    font-size: larger;
+    margin-left: 70px;
+    }
+    #id{
+        margin-left: 20px;
+        margin-top: 1px;
+    }
+    #eng{
+        width: 70px;
+        height: 40px;
+        font-size: large;
+        margin-left: 10px;
+        margin-top: -91px;
+    }
+    #las{
+        font-size: large;
+        margin-left: 10px;
+        
+    }
+    
+    
+    }

@@ -1,0 +1,220 @@
+/*media quriya*/
+@media only screen and (max-width:600px){
+
+    #rass{
+        padding: 5px 10px;
+        width: 130px;
+       margin-left: 10px;
+       margin-top: 9px;
+    }
+    #lan{
+        height: 40px;
+        width: 90px; 
+        margin-left: 400px;
+        font-size: small;
+        margin-top: -50px;
+    
+    }
+    .iam{
+        height: 40px;
+        width: 80px;
+        font-size: small;
+        margin-top: -81px;
+    }
+    #aaa{
+        font-size:40px;
+        margin-left: 90px;
+        margin-top: 80px;
+    }
+    #bbb{
+        font-size: 20px;
+        margin-left: 130px;
+        margin-top: 3px;
+    
+    }
+    #ccc{
+        margin-left: 110px;
+        font-size: 20px;
+        margin-top: -109px;
+        
+    }
+    .mail{
+        width: 300px;
+        height: 50px;
+        margin-left: 130px;
+        font-size: large;
+        margin-top: -90px;
+    }
+    #eee{
+        width: 100px;
+        height: 50px;
+        font-size: large;
+        margin-top: -91px;
+    }
+    header{
+        height: 600px;
+    }
+    #nnn{
+        font-size: large;
+        margin-left: 30px;
+        margin-top: -81px;
+    }
+    .mmm{
+        width: 550px;
+        margin-top: 1px;
+        margin-left: 30px;
+    
+    }
+    #sss{
+        margin-top: 8px;
+        margin-left: 30px;
+        width: 80px;
+        height: 150px;
+    }
+    #vvv{
+        margin-top: 8px;
+        margin-left: 30px;
+        width: 80px;
+        height: 150px;  
+    }
+    #ooo{
+        margin-top: 8px;
+        margin-left: 30px;
+        width: 80px;
+        height: 150px;
+    }
+    #yyy{
+        margin-top: 8px;
+        margin-left: 30px;
+        width: 80px;
+        height: 150px;
+    }
+    #uuu{
+        margin-top: 8px;
+        margin-left: 30px;
+        width: 80px;
+        height: 150px;
+    }
+    #more{
+        font-size: 30px;
+        margin-left: 10px;
+        margin-top: 20px;
+    }
+    .card{
+          display: contents;
+        font-size: medium;
+        justify-content: baseline;
+    }
+    #ttt{
+        font-size: 10px;
+    }
+    #rrr{
+        font-size: 10px;
+    
+    }
+    #iii{
+        font-size: 10px;
+    
+    }
+    #ppp{
+        font-size: 10px;
+    }
+    #rzz{
+        font-size: large;
+        margin-left: 10px;
+        margin-top: -211px;
+    }
+    .hallo{
+        margin-left: 10px;
+        height: 20px;
+        margin-top: 1px;
+        
+    }
+    #fff{
+        font-size: large;
+        width: 550px;
+        height: 50px;
+        margin-left: 10px;
+    }
+    #xxx{
+        font-size: large;
+        width: 550px;
+        height: 50px;
+        margin-left: 10px;
+    }
+    #zzz{
+        font-size: large;
+        width: 550px;
+        height: 50px;
+        margin-left: 10px;
+    }
+    #kkk{
+        margin-top: 135px;
+        font-size: large;
+        width: 550px;
+        height: 50px;
+        margin-left: -131px;
+    }
+    #qqq{
+        
+        font-size: large;
+        width: 550px;
+        height: 50px;
+        margin-left: -131px;  
+    }
+    #lll{
+        font-size: large;
+        width: 550px;
+        height: 50px;
+        margin-left: -131px;  
+    }
+    #noo{
+        margin-left: 70px;
+        font-size: small;
+        margin-top: 1px;
+    }
+    #jk{
+        margin-left: 60px;
+        width: 400px;
+        height: 50px;
+        font-size: large;
+        margin-top: 6px;
+    }
+    #yes{
+        width: 100px;
+        height: 50px;
+        font-size: large;
+        
+    }
+    #call{
+        font-size: large;
+        margin-left: 40px;
+        margin-top: -81px;
+    }
+    .foot{
+    
+    font-size: larger;
+    margin-left: 70px;
+    }
+    #id{
+        margin-left: 20px;
+        margin-top: 1px;
+    }
+    #eng{
+        width: 70px;
+        height: 40px;
+        font-size: large;
+        margin-left: 10px;
+        margin-top: -91px;
+    }
+    #las{
+        font-size: large;
+        margin-left: 10px;
+        
+    }
+    
+    
+    }
+    "https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js"
+    integrity="sha384-MrcW6ZMFYlzcLA8Nl+NtUVF0sA7MsXsP1UyJoMp4YLEuNSfAP+JcXn/tWtIaxVXM"
+    crossorigin="anonymous"    
