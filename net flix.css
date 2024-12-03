@@ -484,8 +484,6 @@ main {
         height: 50px;
         margin-left: -131px;
         margin-top: 10px;
-
-        
     }
     #lll{
         font-size: large;
@@ -493,8 +491,6 @@ main {
         height: 50px;
         margin-left: -131px;
         margin-top: 10px;
-    
-
     }
     #noo{
         margin-left: 40px;
@@ -513,9 +509,8 @@ main {
         height: 50px;
         font-size: large;
         margin-top: 9px;
-        margin-left: 40px;
-        
-    }
+        margin-left: 40px;   
+     }
     #call{
         font-size: large;
         margin-left: 40px;
