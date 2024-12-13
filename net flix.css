@@ -27,7 +27,7 @@ header {
 }
 .iam {
     width: 200px;
-    height: 120px;
+    height: 125px;
     background-color: red;
     color: white;
     font-size: 50px;
@@ -61,7 +61,6 @@ header {
     background-color: black;
     font-size: 50px;
     color: white;
-
 }
 
 #eee {
@@ -144,10 +143,7 @@ main {
     color: white;
     border-radius: 40px;
     font-size: 70px;
-
-
 }
-
 
 #ttt {
     font-size: 80px;
